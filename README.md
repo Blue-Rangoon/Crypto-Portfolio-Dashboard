@@ -5,9 +5,8 @@ CryptoDash is a lightweight crypto portfolio dashboard that lets users track the
 The project focuses on clean UI/UX, practical financial calculations, and smooth frontend–backend integration without using a database.
 
 
-Live Demo
+Live Demo:
 https://cryptodash-portfolio-dashboard.netlify.app/
-
 
 
 Tech Stack:
