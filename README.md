@@ -61,9 +61,6 @@ All implemented **without using a database**.
 ---
 
 ## 👨‍💻 Authors
-- **Saad Ali Rizvi**  
-- **Syed Anas Hasan**
-
 - [**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
 - [**Syed Anas Hasan**](https://www.linkedin.com/in/anas19/)
 
