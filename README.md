@@ -1,5 +1,13 @@
 # CryptoDash – Portfolio Dashboard
 
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Logic-Vanilla%20JavaScript-yellow)
+![Java](https://img.shields.io/badge/Backend-Java-red)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green)
+![Netlify](https://img.shields.io/badge/Deployment-Netlify-00C7B7)
+![Status](https://img.shields.io/badge/Project-Learning%20Project-purple)
+
 **CryptoDash** is a lightweight crypto portfolio dashboard that lets users track their cryptocurrency investments in a simple, intuitive way. Users can add assets, view total investment, current portfolio value, and calculate profit or loss.
 
 The project focuses on **clean UI/UX**, **practical financial calculations**, and **smooth frontend–backend integration** without using a database.
