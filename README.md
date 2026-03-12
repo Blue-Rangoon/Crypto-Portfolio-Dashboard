@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+Portfolio+Dashboard;Built+with+Spring+Boot+and+JavaScript">
+
 # CryptoDash – Portfolio Dashboard
 
 ![Frontend](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
@@ -61,6 +63,8 @@ All implemented **without using a database**.
 - User authentication  
 - Database integration  
 
+## 👥 Visitors
+![Visitors](https://komarev.com/ghpvc/?username=yourusername)
 ---
 
 ## 👨‍💻 Authors
