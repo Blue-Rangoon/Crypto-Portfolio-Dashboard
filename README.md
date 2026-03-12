@@ -1,73 +1,144 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+Portfolio+Dashboard;Built+with+Spring+Boot+and+JavaScript">
+# 💹 CryptoDash – Crypto Portfolio Dashboard
 
-# CryptoDash – Portfolio Dashboard
+<p align="center">
+Lightweight cryptocurrency portfolio dashboard built with Java Spring Boot and Vanilla JavaScript
+</p>
 
-![Frontend](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
-![Styling](https://img.shields.io/badge/style-css3-blue?logo=css3)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CryptoDash+Portfolio+Dashboard;Track+Your+Crypto;Frontend+%2B+Backend+Integration;Profit+%26+Loss+Calculation&center=true&width=520&height=45">
+</p>
+
+---
+
+# 🛫 Project Badges
+
+![HTML5](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/style-css3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/logic-javascript-yellow?logo=javascript)
-![Backend](https://img.shields.io/badge/backend-java-red?logo=openjdk)
-![Framework](https://img.shields.io/badge/framework-springboot-green?logo=springboot)
+![Java](https://img.shields.io/badge/backend-java-red?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/framework-springboot-green?logo=springboot)
+![Netlify](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
 ![Crypto](https://img.shields.io/badge/domain-cryptocurrency-purple?logo=bitcoin)
-![Dashboard](https://img.shields.io/badge/ui-dashboard-teal?logo=databricks)
-![Deployment](https://img.shields.io/badge/deployment-netlify-00C7B7?logo=netlify)
-![Database](https://img.shields.io/badge/database-none-lightgrey)
-![Project](https://img.shields.io/badge/project-learning-blue)
-
-**CryptoDash** is a lightweight crypto portfolio dashboard that lets users track their cryptocurrency investments in a simple, intuitive way. Users can add assets, view total investment, current portfolio value, and calculate profit or loss.
-
-The project focuses on **clean UI/UX**, **practical financial calculations**, and **smooth frontend–backend integration** without using a database.
+![Dashboard](https://img.shields.io/badge/ui-dashboard-blue)
 
 ---
 
-## 🌐 Live Demo
-[CryptoDash Portfolio Dashboard](https://cryptodash-portfolio-dashboard.netlify.app/)
+# 👀 Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=Blue-Rangoon&label=Repository%20Views&color=blue)
 
 ---
 
-## 🛠 Tech Stack
+# 🌐 Live Demo
+
+https://cryptodash-portfolio-dashboard.netlify.app/
+
+---
+
+# 📑 Table of Contents
+
+- Overview  
+- Demo  
+- Features  
+- Tech Stack  
+- System Architecture  
+- Project Structure  
+- Installation  
+- Calculations & Logic  
+- Roadmap  
+- Authors  
+
+---
+
+# 📖 Overview
+
+**CryptoDash** is a lightweight cryptocurrency portfolio dashboard that allows users to:
+
+- Add and manage crypto assets
+- Track total investment
+- Monitor current portfolio value
+- Calculate profit and loss
+
+The project demonstrates **frontend-backend integration**, clean **dashboard UI design**, and **JavaScript financial calculations** without using a database.
+
+---
+
+# ✨ Features
+
+### 💹 Portfolio Management
+
+- Add/remove crypto assets  
+- Track total investment and current portfolio value  
+- Calculate profit or loss  
+
+### 📊 Dashboard
+
+- Clean, intuitive dashboard-style UI  
+- Lightweight and fast performance  
+- Frontend deployed on Netlify  
+
+### 🔗 Backend Integration
+
+- Simple Spring Boot backend  
+- Frontend communicates with backend endpoints  
+- Data handled in-memory (no database)  
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring" />
+</p>
 
 ### Frontend
-- HTML5
-- CSS3
-- Vanilla JavaScript
+
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
 
 ### Backend
-- Java (Spring Boot)
+
+- Java  
+- Spring Boot  
 
 ---
 
-## ✨ Features
-- Add and manage crypto assets  
-- Calculate total investment and profit/loss  
-- Clean dashboard-style UI  
-- Lightweight and fast performance  
-- Simple Spring Boot backend integration  
-- Frontend deployed using Netlify  
+# 🧠 System Architecture
+
+Frontend (HTML/CSS/JS)  
+↓  
+Spring Boot API  
+↓  
+In-memory storage using arrays and objects  
+↓  
+Dashboard calculations (Profit/Loss & Total Investment)  
 
 ---
 
-## 🎯 Purpose
-This project was built as a **learning-focused full-stack project** to practice:
+# ⚙️ Calculations & Logic
 
-- Dashboard UI design  
-- JavaScript logic  
-- Frontend–backend communication  
-- Spring Boot fundamentals  
+- Total investment = sum of all asset purchase values  
+- Current portfolio value = sum of all asset current prices  
+- Profit / Loss = Current Value − Total Investment  
 
-All implemented **without using a database**.
+All calculations happen **dynamically in JavaScript** and are updated in the dashboard UI.
 
 ---
 
-## 🚀 Future Improvements
-- Live crypto prices using APIs  
-- User authentication  
-- Database integration  
+## 🛣 Roadmap
 
-## 👥 Visitors
-![Visitors](https://komarev.com/ghpvc/?username=yourusername)
+- ✅ Add & manage crypto assets  
+- ✅ Portfolio value calculation  
+- ✅ Profit/Loss calculation  
+- ⛔ Live crypto prices using API  
+- ⛔ User authentication  
+- ⛔ Database integration  
+
 ---
 
 ## 👨‍💻 Authors
 - [**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
 - [**Syed Anas Hasan**](https://www.linkedin.com/in/anas19/)
 
+---
