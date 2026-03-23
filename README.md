@@ -156,11 +156,12 @@ Looking for modifications or additional features? We also offer custom developme
 - Instagram: digilinks_tech_solutions
 
 
-🌐 Explore more projects:
+🌐 **Explore more projects:**
 
-- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions⁠)
+- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)  
+- Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
 
-- [**Website:**](digilinks-professional-services.netlify.app)
+---
 
 Serious inquiries only. Let’s build something great together.
 
