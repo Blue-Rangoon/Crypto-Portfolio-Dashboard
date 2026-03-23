@@ -47,6 +47,7 @@ https://cryptodash-portfolio-dashboard.netlify.app/
 - Calculations & Logic  
 - Roadmap  
 - Authors  
+- Note
 
 ---
 
@@ -140,5 +141,20 @@ All calculations happen **dynamically in JavaScript** and are updated in the das
 ## 👨‍💻 Authors
 - [**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
 - [**Syed Anas Hasan**](https://www.linkedin.com/in/anas19/)
+
+---
+
+## 🗒️ Note
+
+This project is available for purchase and ready to be deployed or customized to your needs. A live demo is provided so you can explore its full functionality and performance before making a decision.
+
+Looking for modifications or additional features? We also offer custom development and improvements tailored to your requirements.
+
+💬 For pricing, full source code access, or negotiations:
+
+- Email: digilinkstechsolutions@gmail.com
+- Instagram: digilinks_tech_solutions
+
+Serious inquiries only. Let’s build something great together.
 
 ---
